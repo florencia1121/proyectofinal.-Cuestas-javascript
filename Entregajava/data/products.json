@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Budin integral naranja",
+    "precio": 7000,
+    "descripcion": "Budín integral con ralladura de naranja y semillas. Porción individual.",
+    "imagen": "images/budin de naranja.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza integral",
+    "precio": 9000,
+    "descripcion": "Masa integral con salsa casera y queso mozzarella.",
+    "imagen": "images/pizza integral.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Galletas de avenas",
+    "precio": 5000,
+    "descripcion": "Galletas caseras de avena y miel, paquete de 6 unidades.",
+    "imagen": "images/galletas de avena.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarta de verduras",
+    "precio": 6000,
+    "descripcion": "Tarta salada de verduras asadas, porción grande.",
+    "imagen": "images/tarta de verduras.avif"
+}
+]
